@@ -28,14 +28,14 @@ Resources for SensorThingsAPI
 
 |Description|Organization|URL|
 |-|-|-|
-|Toronto Bike Share data|[SensorUp](https://sensorup.com/)|[https://toronto-bike-snapshot.sensorup.com/v1.0]()|
-|Demonstration using copy of USGS groundwater data from New Mexico|[Internet of Water](https://internetofwater.org)|[https://sta-demo.internetofwater.dev/api/v1.1]()|
-|New Mexico State agencies groundwater|[New Mexico Water Data Initiative](https://newmexicowaterdata.org)|[https://st2.newmexicowaterdata.org/FROST-Server/v1.1]()|
-|French Geological Survey Water Quality Stations|[BRGM](https://www.brgm.fr/en)|[https://sensorthings-wq.brgm-rec.fr/FROST-Server/v1.0]()|
-|French Geological Survey Groundwater|[BRGM](https://www.brgm.fr/en)|[https://sensorthings.brgm-rec.fr/SensorThingsGroundWater/v1.0]()|
-|German Rhine Streamgages|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|[https://lubw.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1]()|
-|EU Air Quality Sensors|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|[https://airquality-frost.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1]()|
-|EU Demography Data|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|[https://demography.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1]()|
-|Global Country-level COVID case data|[HFT Stuttgart](https://hft-stuttgart.de)|[http://covidsta.hft-stuttgart.de/server/v1.1]()  |
+|Toronto Bike Share data|[SensorUp](https://sensorup.com/)|[https://toronto-bike-snapshot.sensorup.com/v1.0](https://toronto-bike-snapshot.sensorup.com/v1.0)|
+|Demonstration using copy of USGS groundwater data from New Mexico|[Internet of Water](https://internetofwater.org)|[https://sta-demo.internetofwater.dev/api/v1.1](https://sta-demo.internetofwater.dev/api/v1.1)|
+|New Mexico State agencies groundwater|[New Mexico Water Data Initiative](https://newmexicowaterdata.org)|[https://st2.newmexicowaterdata.org/FROST-Server/v1.1](https://st2.newmexicowaterdata.org/FROST-Server/v1.1)|
+|French Geological Survey Water Quality Stations|[BRGM](https://www.brgm.fr/en)|[https://sensorthings-wq.brgm-rec.fr/FROST-Server/v1.0](https://sensorthings-wq.brgm-rec.fr/FROST-Server/v1.0)|
+|French Geological Survey Groundwater|[BRGM](https://www.brgm.fr/en)|[https://sensorthings.brgm-rec.fr/SensorThingsGroundWater/v1.0](https://sensorthings.brgm-rec.fr/SensorThingsGroundWater/v1.0)|
+|German Rhine Streamgages|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|[https://lubw.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1](https://lubw.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1)|
+|EU Air Quality Sensors|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|[https://airquality-frost.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1](https://airquality-frost.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1)|
+|EU Demography Data|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|[https://demography.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1](https://demography.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1)|
+|Global Country-level COVID case data|[HFT Stuttgart](https://hft-stuttgart.de)|[http://covidsta.hft-stuttgart.de/server/v1.1](http://covidsta.hft-stuttgart.de/server/v1.1)  |
 |USGS Instantaneous Values (all continuous data stations in US)|[USGS](https://waterservices.usgs.gov/)|Coming Soon!|
 |Natural Resources Canada Groundwater Information Network|[NRCan](https://gin.gw-info.net/service/api_ngwds:gin2/en/gin.html)|Coming Soon!|
