@@ -29,7 +29,7 @@ Resources for SensorThingsAPI
 |Description|Organization|URL|
 |-|-|-|
 |Toronto Bike Share data|[SensorUp](https://sensorup.com/)|https://toronto-bike-snapshot.sensorup.com/v1.0|
-|Demonstration using copy of USGS groundwater data from New Mexico|[Internet of Water](https://internetofwater.org)|[https://sta-demo.internetofwater.dev/api/v1.1]|
+|Demonstration using copy of USGS groundwater data from New Mexico|[Internet of Water](https://internetofwater.org)|[https://sta-demo.internetofwater.dev/api/v1.1]()|
 |New Mexico State agencies groundwater|[New Mexico Water Data Initiative](https://newmexicowaterdata.org)|https://st2.newmexicowaterdata.org/FROST-Server/v1.1|
 |French Geological Survey Water Quality Stations|[BRGM](https://www.brgm.fr/en)|https://sensorthings-wq.brgm-rec.fr/FROST-Server/v1.0|
 |French Geological Survey Groundwater|[BRGM](https://www.brgm.fr/en)|https://sensorthings.brgm-rec.fr/SensorThingsGroundWater/v1.0|
