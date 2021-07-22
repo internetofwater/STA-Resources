@@ -10,3 +10,8 @@ Resources for SensorThingsAPI
 - [SensorUp (private sector SDK](https://developers.sensorup.com/docs/#introduction)
 - [Geodan (open source interactive docs)](https://gost1.docs.apiary.io)
 
+## Deployment Options
+
+|sds|sdsd
+|-|-|
+|sds|sdsd|
