@@ -35,6 +35,7 @@ Resources for SensorThingsAPI
 |French Geological Survey Groundwater|[BRGM](https://www.brgm.fr/en)|https://sensorthings.brgm-rec.fr/SensorThingsGroundWater/v1.0|
 |German Rhine Streamgages|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|https://lubw.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1|
 |EU Air Quality Sensors|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|https://airquality-frost.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1|
-|EU Demography Data|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|https://demography.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1
+|EU Demography Data|[Fraunhofer Institute](https://www.fraunhofer.de/en.html)|https://demography.k8s.ilt-dmz.iosb.fraunhofer.de/v1.1|
+|Global Country-level COVID case data|[HFT Stuttgart](https://hft-stuttgart.de)|http://covidsta.hft-stuttgart.de/server/v1.1  |
 |USGS Instantaneous Values (all continuous data stations in US)|[USGS](https://waterservices.usgs.gov/)|Coming Soon!|
 |Natural Resources Canada Groundwater Information Network|[NRCan](https://gin.gw-info.net/service/api_ngwds:gin2/en/gin.html)|Coming Soon!|
