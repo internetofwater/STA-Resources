@@ -19,10 +19,11 @@ Resources for SensorThingsAPI
 
 |Name|Type|Vendor URL|
 |-|-|-|
-|SensorUp|Proprietary|https://sensorup.com/|
-|Cubewerx|Proprietary|https://www.cubewerx.com/|
-|52 North|Open Source|https://github.com/52North/sensorweb-server-sta|
-|FROST|Open Source|https://github.com/FraunhoferIOSB/FROST-Server|
+|SensorUp|Proprietary|[https://sensorup.com/](https://sensorup.com/)|
+|Cubewerx|Proprietary|[https://www.cubewerx.com/](https://www.cubewerx.com/)|
+|52 North|Open Source|[https://github.com/52North/sensorweb-server-sta](https://github.com/52North/sensorweb-server-sta)|
+|FROST|Open Source|[https://github.com/FraunhoferIOSB/FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server)|
+|GOST| Open Source|[https://github.com/gost/server](https://github.com/gost/server)|
 
 ## Example Endpoints
 
